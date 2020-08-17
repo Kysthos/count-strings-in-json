@@ -42,7 +42,7 @@ const main = async () => {
     console.log(`Stats saved to ${config.STATS_FILE}`);
     
   } catch (err) {
-    console.error("Something wen't wrong...");
+    console.error("Something went wrong...");
     console.error(err);
     process.exit(1);
   }
