@@ -1,0 +1,4 @@
+{
+    "INPUT_DIR": "./jsons",
+    "STATS_FILE": "./stats/count.txt"
+}
